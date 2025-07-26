@@ -25,3 +25,7 @@ python agent_example.py "Hola"
 
 Esto enviará el mensaje a la API y mostrará la respuesta.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
